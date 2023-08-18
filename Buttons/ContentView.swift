@@ -14,7 +14,7 @@ struct ContentView: View {
     var body: some View {
         
         VStack(alignment: .center) {
-            
+            Text("H")
             Text("\(textTitle)")
                 .font(.title)
             
